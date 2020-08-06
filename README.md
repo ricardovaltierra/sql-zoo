@@ -1,4 +1,4 @@
-# sql_zoo
+# SQL Zoo
 
 > Microverse SQL project.
 
